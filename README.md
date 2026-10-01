@@ -3,10 +3,10 @@
 Projeto acadêmico do 2º semestre do Tecnólogo em Inteligência Artificial - FIAP.
 
 ## Integrantes
-- Maria Eduarda - Matrícula: PREENCHER
-- Giovanna - Matrícula: PREENCHER
-- Athur - Matrícula: PREENCHER
-- Felipe - Matrícula: PREENCHER
+- Maria Eduarda - RM 572612
+- Giovanna - RM 570989
+- Arthur Costa Donaire - RM 571283
+- Felipe - RM 573263
 
 ## Objetivo
 Integrar análise estatística descritiva/probabilística com modelagem não supervisionada usando o dataset Wines.
